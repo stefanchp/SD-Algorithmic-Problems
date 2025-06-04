@@ -23,11 +23,6 @@ int cmmdc(int a, int b)
 	return a;
 }
 
-int maxim(int a, int b) 
-{
-	return a > b ? a : b;
-}
-
 int main() 
 {
 	/// precalculare: E[i] = exponentul celei mai mari
